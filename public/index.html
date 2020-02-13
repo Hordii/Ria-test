@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Tree</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+<link rel='stylesheet' href='style.css'>
+<body>
+  <div class="main">
+    <div class="form">
+      <form action="http://localhost:3000/getFileStructure" target="_blank"  method="GET">
+        path: <input type="text" name="path"> <button type="submit">Send</button>
+      </form>
+    </div>
+      <br>
+    <div class="form">
+      <form action="http://localhost:3000/pathSave" target="_blank" method="POST">
+        Enter path: <input type="text" name="path"> and
+        Named: <input type="text" name="name">
+        <button type="submit">Save to db</button>
+      </form>
+    </div>
+      <br>
+    <div class="form">
+      <form action="http://localhost:3000/pathLoad" target="_blank" method="GET">
+        For loading send name of saved path: <input type="text" name="name"> <button type="submit">Load</button>
+      </form>
+    </div>
+  </div>
+
+</body>
+</html>

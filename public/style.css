@@ -1,0 +1,7 @@
+.main {
+  height: 100%;
+  weight: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+}

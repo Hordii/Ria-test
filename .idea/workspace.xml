@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a5af305-1dad-433e-8d08-f877e9708717" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XkJfFsebWHjJciY4uJjI3KRujp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="13.7.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cars-Back/back-end-client" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a5af305-1dad-433e-8d08-f877e9708717" name="Default Changelist" comment="" />
+      <created>1581584260790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581584260790</updated>
+      <workItem from="1581584262022" duration="12828000" />
+      <workItem from="1581599269835" duration="2820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="646" y="317" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581587854759">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="646" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.24.1920.1032@0.24.1920.1032" timestamp="1581587854759" />
+    <state x="746" y="270" key="FileChooserDialogImpl" timestamp="1581602088527">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="746" y="270" key="FileChooserDialogImpl/0.24.1920.1032@0.24.1920.1032" timestamp="1581602088527" />
+    <state x="624" y="247" key="run.anything.popup" timestamp="1581600589090">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="624" y="247" key="run.anything.popup/0.24.1920.1032@0.24.1920.1032" timestamp="1581600589090" />
+  </component>
+</project>
